@@ -7,7 +7,9 @@ tags:
   - "knowledge"
   - "math"
 public: true
+enableMathJax: true
 ---
+
 Everybody knows the definition of prime numbers.
 A number is a prime number when its only factors are 1 and the number
 itself. It's common to hear people say that prime numbers are
@@ -32,27 +34,37 @@ Since 1 is not a prime number, we skip that one and start
 the multiplier with 2. Multiply 2 with an increasing multiplicand
 until we get exactly 25.
 
-$2\times2 = 4$,
-$2\times3 = 6$,
-$2\times4 = 8$,
-...
-$2\times13 = 26$ which is greater than $25$ so we have to increment
+$$
+2\times2 = 4\\
+2\times3 = 6\\
+2\times4 = 8\\
+...\\
+2\times13 = 26
+$$
+
+which is greater than $25$ so we have to increment
 the multiplier.
 
-$3\times3 = 9$,
-$3\times4 = 12$,
-$3\times5 = 15$,
-...
-$3\times9 = 27$ which is greater than $25$ so we have to increment
+$$
+3\times3 = 9\\
+3\times4 = 12\\
+3\times5 = 15\\
+...\\
+3\times9 = 27
+$$
+
+which is greater than $25$ so we have to increment
 the multiplier.
 
 Keep repeating until we get exactly 25.
 
-$4\times4 = 16$,
-$4\times5 = 20$,
-$4\times6 = 24$,
-...
-$5\times5 = 25$
+$$
+4\times4 = 16\\
+4\times5 = 20\\
+4\times6 = 24\\
+...\\
+5\times5 = 25
+$$
 
 Finally! The number 25 is made up of $5\times5$.
 
