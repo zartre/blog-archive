@@ -2,7 +2,7 @@
 title: "Setting up WARP for Cloudflare Access"
 date: 2024-12-14
 categories:
-  - "Tutorials"
+  - "Tutorial"
 tags:
   - "dev"
 coverImage: "./images/cloudflare-hero.webp"
