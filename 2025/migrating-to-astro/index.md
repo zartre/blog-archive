@@ -5,6 +5,7 @@ categories:
   - "Thoughts"
 tags:
   - "technical"
+public: true
 ---
 
 I have finally made the decision to move my blog from WordPress to Astro.
