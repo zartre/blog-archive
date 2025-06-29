@@ -2,7 +2,7 @@
 title: "Oma is my first Svelte app - use it to track days since"
 date: 2024-08-02
 categories:
-  - "Projects"
+  - "Project"
 tags:
   - "dev"
 coverImage: "./images/oma-blog-hero.png"
