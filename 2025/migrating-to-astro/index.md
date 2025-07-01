@@ -4,7 +4,7 @@ date: 2025-06-29
 categories:
   - "Thoughts"
 tags:
-  - "technical"
+  - "dev"
 public: true
 ---
 
