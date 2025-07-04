@@ -37,3 +37,5 @@ If you are starting a blog and has some knowledge in frontend website
 development, I recommend you build it as a static site so that it can
 be a project to practise coding. Above all, it means you own your
 content, and as plaintext files that will not depend on any app to open.
+
+See the source code here: https://github.com/zartre/zartre-2024
