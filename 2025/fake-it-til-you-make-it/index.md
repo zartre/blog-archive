@@ -25,7 +25,7 @@ find that you are not doing as good. Well, I think that applies to any
 profession actually. Comparison is the thief of joy, but it's hard to
 not compare.
 
-Sometimes I doubt how am I going to do this or that, but this phrase
+Sometimes I doubt how I am going to do this or that, but this phrase
 keeps reminding me to just *fake it 'til I make it*. Last year,
 especially, I was promoted to a senior software engineer. I didn't
 know what exactly I should do to be worthy of the *senior* title, but
