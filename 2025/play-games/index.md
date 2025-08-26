@@ -15,7 +15,7 @@ skills or studies, but at the end of the day we are just humans who
 won't survive long with too much stretching. That's why I incorporate
 gaming into my routine.
 
-It may seem easy, just play games, right? But at first I was hard for
+It may seem easy, just play games, right? But at first it was hard for
 me to find games on which I want to spend my time. I bought the PS5
 and initially Gran Turismo 7 was the only game I would play. To be
 honest I bought it _just_ because of Gran Turismo. It's the only game
@@ -27,6 +27,8 @@ was making the purchase; it was cheap so I thought, "just play it".
 Finishing it felt like an accomplishment because I hadn't finished any
 game in a long time. There was also a little surprise at the end. And
 so I started exploring more games, especially indie games.
+
+Currently I'm also playing Astro and Wolfenstein II on my PS5.
 
 I like how gaming transports me into a different world. It allows me
 to forget all else for a while and just focus on the new world in
@@ -40,5 +42,5 @@ Coincidentally, today I found a video titled
 '[Just Play Games on Weekends](https://youtu.be/CCufDroUlv0?si=VlZl3hRoyp0yAY6o)'
 which emphasises my idea. **Just play games.**
 
-Don't overthink. Pick a game and go with it. You need to relax and be
+Don't overthink. Pick a game and enjoy it. You need to relax and be
 that kid again.
