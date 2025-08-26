@@ -8,8 +8,8 @@ tags:
 public: true
 ---
 
-It seems like we get to game less as we grow older. We have a 9-5 job,
-we have chores and other stuff to do. To me it's because I feel like I
+It seems like we get to game less as we grow older. We have a 9-5 job.
+We have chores and other stuff to do. To me it's because I feel like I
 should be spending time on self improvement, be it work, language
 skills or studies, but at the end of the day we are just humans who
 won't survive long with too much stretching. That's why I incorporate
