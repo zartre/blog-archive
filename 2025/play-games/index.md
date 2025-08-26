@@ -1,5 +1,5 @@
 ---
-title: "Play games"
+title: "Play Games"
 date: 2025-08-26
 categories:
   - "Thoughts"
@@ -28,9 +28,13 @@ Finishing it felt like an accomplishment because I hadn't finished any
 game in a long time. There was also a little surprise at the end. And
 so I started exploring more games, especially indie games.
 
-The indie game scene right now is more vibrant than ever before.
-I feel like I am ten years old again where almost every game I
-encounter simply looks fun.
+I like how gaming transports me into a different world. It allows me
+to forget all else for a while and just focus on the new world in
+front of me; it sets my mind free.
+
+The indie game scene right now is more vibrant than ever before and
+it's a good time to start exploring. I feel like I am ten years old
+again when almost every game I encountered simply looked fun.
 
 Coincidentally, today I found a video titled
 '[Just Play Games on Weekends](https://youtu.be/CCufDroUlv0?si=VlZl3hRoyp0yAY6o)'
