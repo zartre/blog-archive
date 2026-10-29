@@ -1,4 +1,3 @@
-
 ---
 title: "AI is not the Silver Bullet"
 date: 2026-05-06
